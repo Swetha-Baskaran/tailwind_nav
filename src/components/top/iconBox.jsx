@@ -18,7 +18,7 @@ function IconBox() {
           <li className='text-2xl px-3'><BsFillBasket2Fill /></li>
           <li className='text-2xl px-3'><VscBellDot /></li>
         </div>
-        <li className='text-xl text-gray-500 px-4 hidden md:block'>Sham</li>
+        <li className='text-xl text-gray-500 px-4 hidden md:block tracking-wide'>Sham</li>
         <li className='text-5xl md:text-4xl px-1 md:px-5 border-3 border-solid border-yellow-400'style={{"border-radius": "50%","padding" : "1px","border" : "1px solid hsl(45deg 100% 47%)"}}><IoIosContact /></li>
        </ol>
     </div>
